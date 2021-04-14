@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <root xmlns="urn:schemas-upnp-org:device-1-0">
+   <URLBase>http://192.168.2.23:34400</URLBase>
+   <specVersion>
+     <major>1</major>
+     <minor>0</minor>
+   </specVersion>
+   <device>
+     <deviceType>urn:schemas-upnp-org:device:MediaServer:1</deviceType>
+     <friendlyName>MLB DVR</friendlyName>
+     <manufacturer>Silicondust</manufacturer>
+     <modelName>HDTC-2US</modelName>
+     <modelNumber>HDTC-2US</modelNumber>
+     <serialNumber></serialNumber>
+     <UDN>uuid:2021-04-3VBW-9RMB9V:10</UDN>
+   </device>
+ </root>
